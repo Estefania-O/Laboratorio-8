@@ -5,7 +5,13 @@ INDUCTOR Y CAPACITOR
 
 Objetivo General
 
+•	Identificar los conceptos más importantes que definen a los inductores y capacitores, para ampliar nuestro conocimiento y sobretodo que nuestro entendimiento sea mas profundo.
+
 Objetivos Específicos
+
+•	Conocer e investigar que son los capacitores e inductores para saber sus aplicaciones, características y métodos de resolución.
+
+•	Calcular su método de resolución de los capacitores e inductores en serie y paralelo.
 
 2. MARCO TEÓRICO
 
