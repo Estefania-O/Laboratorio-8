@@ -23,6 +23,13 @@ Objetivos Específicos
 
 6. CONCLUSIONES
 
+•	Si la frecuencia baja, la reactancia aumenta es fundamental para evitar el paso de corriente continua
+
+•	Los capacitores e inductores se utilizan mucho en la electrónica y en otros campos, además de encontrarse en la mayoría de los circuitos eléctricos. 
+
+•	Son componentes pasivos, y el capacitor es sustentado por campo eléctrico mientras que el inductor es sustentado por un campo magnético
+
+
 7. BIBLIOGRAFÍA
 
 8. ANEXOS
