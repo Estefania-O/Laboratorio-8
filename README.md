@@ -39,8 +39,14 @@ Una vez realizada la simulación se obtuvieron los siguientes datos:
 
 **Tabla I. Datos circuito 1.**
 
-|**frecuencia (Hz)**|**V0 Oscilocopio**|**V0 Multimetro**|**I Resistencia (mA)**|**V Resistencia**|
-|:---:|:----:|:---:|:----:|:-----:|
+|**frecuencia (Hz)**|**V0 Oscilocopio**|**V0 Multimetro**|**I Resistencia (mA)**|
+|:---:|:----:|:---:|:----:|
+|0|0|0|0|
+|10|9.90|7.04|8.88|
+|50|8.40|6.00|37.7|
+|100|6.20|4.38|55.4|
+|500|1.55|1.10|69.8|
+|1000|0.78|0.55|70.5|
 
 **6. CONCLUSIONES**
 
