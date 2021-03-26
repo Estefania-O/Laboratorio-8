@@ -29,8 +29,8 @@ Objetivos Específicos
 |1|Multímetro|
 |1|Cables conductores|
 |1|Resistor de 100 Ω|
-|2|Capacitadores 10   μF|
-|2|Bobinas 100 mH|
+|2|Capacitador de 10 μF|
+|2|Bobina de 100 mH|
 
 5. EXPLICACIÓN
 
