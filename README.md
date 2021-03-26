@@ -53,8 +53,7 @@ Medición del voltaje (Vo)con el uso del voltímetro en el circuito con capacita
 
 Para la primera simulación se utilizo la herramienta Proteus para la implementación del circuito con capacitadores, con las ayuda de un osciloscopio, voltimetro y un amperímetro se pudo dar lectura de los valores de voltaje y corriente que  se detallan en la siguiente tabla:
 
-**Tabla I. Datos circuito 1.**
-
+**Tabla I.** Datos de los valores medidos en el circuito con capacitadores.
 |**frecuencia (Hz)**|**V0 Oscilocopio**|**V0 Multimetro**|**I Resistencia (mA)**|
 |:---:|:----:|:---:|:----:|
 |0|0|0|0|
@@ -66,20 +65,15 @@ Para la primera simulación se utilizo la herramienta Proteus para la implementa
 
 Para la segunda simulacion se implemento el mismo circuito cambiando los capacitadores por unas bobinas o inductores, con la ayuda de un osciloscopio, voltimetro y un amperímetro se pudo dar lectura de los valores de voltaje y corriente que se detallan en la siguiente tabla:
 
+**Tabla II.** Datos de los valores medidos en el circuito con bobinas.
 |**frecuencia (Hz)**|**V0 Oscilocopio**|**V0 Multimetro**|**I Resistencia (mA)**|
 |:---:|:----:|:---:|:----:|
 |0|0|0|0|
-
-1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
-
-En la fase estable, el fenómeno descrito en la curva de carga del condensador continuará ocurriendo hasta que se estabilice y se convierta en una fase continua. En esta etapa, la intensidad de la corriente que fluye a través del condensador es igual a cero, por lo que se considera un "circuito abierto". En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un “cable” en el circuito.
-
-2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
-
-El comportamiento de los capacitores en corriente alterna dependerá de la función que describa su comportamiento en un intervalo de tiempo definido. Entonces, el capacitor se puede representar como otro componente pasivo en el circuito.  Al  existir  una  variación  de  la  corriente  en  un  circuito  de  corriente  alterna  es  posible conocer los valores que pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido. 
-Entonces se  puede representar al inductor como un elemento pasivo más en el circuito.
-
-3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+|10|0.3175|0.23|70.4|
+|50|1.57|1.11|69.9|
+|100|3.02|2.14|67.5|
+|500|8.45|5.98|37.6|
+|1000|9.5|6.74|21.2|
 
 **6. CONCLUSIONES**
 
