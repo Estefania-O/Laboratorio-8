@@ -53,7 +53,7 @@ Medición del voltaje (Vo)con el uso del voltímetro en el circuito con capacita
 
 Para la primera simulación se utilizo la herramienta Proteus para la implementación del circuito con capacitadores, con las ayuda de un osciloscopio, voltimetro y un amperímetro se pudo dar lectura de los valores de voltaje y corriente que  se detallan en la siguiente tabla:
 
-**Tabla I. Datos circuito 1.**
+**Tabla I.** Datos de lectura circuito 1.
 
 |**frecuencia (Hz)**|**V0 Oscilocopio**|**V0 Multimetro**|**I Resistencia (mA)**|
 |:---:|:----:|:---:|:----:|
@@ -66,9 +66,15 @@ Para la primera simulación se utilizo la herramienta Proteus para la implementa
 
 Para la segunda simulacion se implemento el mismo circuito cambiando los capacitadores por unas bobinas o inductores, con la ayuda de un osciloscopio, voltimetro y un amperímetro se pudo dar lectura de los valores de voltaje y corriente que se detallan en la siguiente tabla:
 
+**Tabla II.** Datos  de lectura circuito 2.
 |**frecuencia (Hz)**|**V0 Oscilocopio**|**V0 Multimetro**|**I Resistencia (mA)**|
 |:---:|:----:|:---:|:----:|
 |0|0|0|0|
+|10|0.3175|0.23|70.4|
+|50|1.57|1.11|69.9|
+|100|3.02|2.14|67.5|
+|500|8.45|5.98|37.6|
+|1000|9.5|6.74|21.2|
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
