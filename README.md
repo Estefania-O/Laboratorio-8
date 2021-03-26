@@ -20,6 +20,22 @@ Objetivos Específicos
 
 **3. DIAGRAMAS**
 
+Circuitos con capacitadore y bobinas.
+
+![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Circuitos_Gu%C3%ADa%208.png)
+
+Circuito con capacitadores implementado con la ayuda de la herramienta Proteus.
+
+![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Circuito_capacitadores.png)
+
+Medición del voltaje (Vo) con el uso del osciloscopio en el circuito con capacitadores.
+
+![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Medicion_V0_Osciloscopio.png)
+
+Medición del voltaje (Vo)con el uso del voltímetro en el circuito con capacitadores.
+
+![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Medicion_V0_Osciloscopio.png)
+
 **4. COMPONENTES**
 
 |**CANTIDAD**|**ELEMENTO**|
