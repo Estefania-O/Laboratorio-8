@@ -36,6 +36,18 @@ Medición del voltaje (Vo)con el uso del voltímetro en el circuito con capacita
 
 ![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Medicion_V0_Osciloscopio.png)
 
+Circuito con bobina implementado con las ayuda de la herramienta Proteus.
+
+![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Circuito_bobinas.png)
+
+Medición del voltaje (Vo) con el uso del osciloscopio en el circuito con bobina.
+
+![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Medicion_Vo_Osciloscopio.png)
+
+Medición del voltaje (Vo) con el uso del voltímetro en el circuito con bobina.
+
+![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Medicion_Vo_Osciloscopio.png)
+
 **4. COMPONENTES**
 
 |**CANTIDAD**|**ELEMENTO**|
