@@ -35,6 +35,13 @@ Objetivos Específicos
 
 **5. EXPLICACIÓN**
 
+Una vez realizada la simulación se obtuvieron los siguientes datos:
+
+**Tabla I. Datos circuito 1.**
+
+|**frecuencia (Hz)**|**V0 Oscilocopio**|**V0 Multimetro**|**I Resistencia (mA)**|**V Resistencia**|
+|:---:|:----:|:---:|:----:|:-----:|
+
 **6. CONCLUSIONES**
 
 •	Si la frecuencia baja, la reactancia aumenta es fundamental para evitar el paso de corriente continua
