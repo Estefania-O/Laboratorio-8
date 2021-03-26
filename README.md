@@ -28,7 +28,7 @@ Objetivos Específicos
 |1|Protoboard|
 |1|Multímetro|
 |1|Cables conductores|
-|1|Rsisitor 100 Ω|
+|1|Resistor de 100 Ω|
 |2|Capacitadores 10   μF|
 |2|Bobinas 100 mH|
 
