@@ -15,7 +15,7 @@ Objetivos Específicos
 
 2. MARCO TEÓRICO
 
-![.]
+![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Mapa_Lab%208.png)
 
 3. DIAGRAMAS
 
