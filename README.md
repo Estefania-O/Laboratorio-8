@@ -51,7 +51,7 @@ Medición del voltaje (Vo)con el uso del voltímetro en el circuito con capacita
 
 **5. EXPLICACIÓN**
 
-Una vez realizada la simulación se obtuvieron los siguientes datos:
+Para la primera simulación se utilizo la herramienta Proteus para la implementación del circuito con capacitadores, con las ayuda de un osciloscopio, voltimetro y un amperímetro se pudo dar lectura de los valores de voltaje y corriente que  se detallan en la siguiente tabla:
 
 **Tabla I. Datos circuito 1.**
 
@@ -63,6 +63,14 @@ Una vez realizada la simulación se obtuvieron los siguientes datos:
 |100|6.20|4.38|55.4|
 |500|1.55|1.10|69.8|
 |1000|0.78|0.55|70.5|
+
+Para la segunda simulacion se implemento el mismo circuito cambiando los capacitadores por unas bobinas o inductores, con la ayuda de un osciloscopio, voltimetro y un amperímetro se pudo dar lectura de los valores de voltaje y corriente que se detallan en la siguiente tabla:
+
+|**frecuencia (Hz)**|**V0 Oscilocopio**|**V0 Multimetro**|**I Resistencia (mA)**|
+|:---:|:----:|:---:|:----:|
+|0|0|0|0|
+
+
 
 **6. CONCLUSIONES**
 
