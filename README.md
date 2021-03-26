@@ -21,6 +21,17 @@ Objetivos Específicos
 
 4. LISTA DE COMPONENTES
 
+|**CANTIDAD**|**ELEMENTO**|
+|:----:|:----:|
+|1|Generador de señales|
+|1|Osciloscopio|
+|1|Protoboard|
+|1|Multímetro|
+|1|Cables conductores|
+|1|Rsisitor 100 Ω|
+|2|Capacitadores 10   μF|
+|2|Bobinas 100 mH|
+
 5. EXPLICACIÓN
 
 6. CONCLUSIONES
