@@ -1,7 +1,7 @@
 # Laboratorio-8
 INDUCTOR Y CAPACITOR
 
-1. OBJETIVOS
+**1. OBJETIVO**
 
 Objetivo General
 
@@ -13,13 +13,13 @@ Objetivos Específicos
 
 •	Calcular su método de resolución de los capacitores e inductores en serie y paralelo.
 
-2. MARCO TEÓRICO
+**2. MARCO TEÓRICO**
 
 ![.](https://github.com/Estefania-O/Laboratorio-8/blob/main/img./Mapa_Lab%208.png)
 
-3. DIAGRAMAS
+**3. DIAGRAMAS**
 
-4. LISTA DE COMPONENTES
+**4. COMPONENTES**
 
 |**CANTIDAD**|**ELEMENTO**|
 |:----:|:----:|
@@ -32,9 +32,9 @@ Objetivos Específicos
 |2|Capacitador de 10 μF|
 |2|Bobina de 100 mH|
 
-5. EXPLICACIÓN
+**5. EXPLICACIÓN**
 
-6. CONCLUSIONES
+**6. CONCLUSIONES**
 
 •	Si la frecuencia baja, la reactancia aumenta es fundamental para evitar el paso de corriente continua
 
@@ -43,6 +43,6 @@ Objetivos Específicos
 •	Son componentes pasivos, y el capacitor es sustentado por campo eléctrico mientras que el inductor es sustentado por un campo magnético
 
 
-7. BIBLIOGRAFÍA
+**7. BIBLIOGRAFÍA**
 
-8. ANEXOS
+**8. ANEXOS**
