@@ -109,6 +109,10 @@ Entonces se  puede representar al inductor como un elemento pasivo más en el ci
 
 Cambiará según cuánto cambie la impedancia Si la impedancia capacitiva o resistiva se vuelve más pequeña, la caída de voltaje Vo será más pequeña  y si la impedancia capacitiva o resistiva aumenta, la caída de voltaje Vo teóricamente será mayor.
 
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Los valores efectivos de corriente y voltaje son valores equivalentes en corriente continua, es decir, tienen el mismo comportamiento con respecto a la potencia suministrada en el circuito.
+
 **6. CONCLUSIONES**
 
 •	Si la frecuencia baja, la reactancia aumenta es fundamental para evitar el paso de corriente continua
